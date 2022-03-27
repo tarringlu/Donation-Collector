@@ -10,7 +10,9 @@ Problem#1 There is no web service to let donors post the items they want to dona
 Problem#2 There is no web service to let NGO know where their target donation items are available to pick up.
 Problem#3 There is no Weight calculation service so that NGO could determine if they need to rent a truck to come and pick up everything they need in one specific area.
 
-*Product logic and features*:
+
+**Product logic and features**:
+=========================
 
 *User posts items to public donation space like marketplace
 NGO will write their pick-up radius,  items preferences, and preference weight for each pickup in their profile.
@@ -36,6 +38,8 @@ NGO can decide if they will schedule pickup after notification. We provide filte
 ![image](https://github.com/tarringlu/Donation-Collector/blob/main/Screen%20Shot%202022-03-27%20at%2012.03.18%20AM.png)
 
 ![image](https://github.com/tarringlu/Donation-Collector/blob/main/Screen%20Shot%202022-03-27%20at%2012.04.06%20AM.png)
+
+
 **Structure of this project**
 =========================
 
