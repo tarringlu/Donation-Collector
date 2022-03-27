@@ -1,5 +1,4 @@
 # Donation-Collector
-=========================
 **-- Donation-Collector: a Bridge Web Service between donor and ngo.**
 
 ![](https://github.com/tarringlu/Donation-Collector/blob/main/Screen%20Shot%202022-03-27%20at%2012.01.12%20AM.png)
